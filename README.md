@@ -18,6 +18,7 @@ I will suggest that you do as follows:
   - `NOTE` is for clarifications.
   - `CAUTION` is like a soft disclaimer.
   - `WARNING` _should_ be heeded if you want no problems.
+5. I shall put images and videos to help you visualize stuff.
 
 ## BEST OF LUCK (NO NEED TO STRESS :D)
 This link will take you to part 1 of the guide: [PART 1](https://www.archlinux.org) (points to archlinux.org for now. Need time to edit more).
