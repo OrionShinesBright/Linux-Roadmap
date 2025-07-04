@@ -2,7 +2,7 @@
 A detailed, and precise roadmap for the linux desktop in 2025
 
 > [!CAUTION]
-> This was written and finalized on 4th July, 2025. The linux community is fast. _**If something is not working, it is likely that this page might be out of date**_.. In such a case, let me know at pillars.of.creation.880333@gmail.com
+> This was written and finalized on 4th July, 2025. The linux community is fast. _**If something is not working, it is likely that this page might be out of date**_.. In such a case, let me know in the `Discussions` tab or at pillars.of.creation.880333@gmail.com.
 
 ## What to Expect
   The first thing to know is that the Linux community is not backed by money like Microsoft or Apple. Most of the code that runs a Linux environment is contributed by hobbyists in their free time, for free, with no incentive to pump out more features, other than their own love for open source software. Therefore, **DO NOT expect a Windows/MacOS like experience**. Linux is not Windows. Do not think of it as such. That will save you from many troubles later on.
