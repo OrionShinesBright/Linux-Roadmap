@@ -21,4 +21,4 @@ I will suggest that you do as follows:
 5. I shall put images and videos to help you visualize stuff.
 
 ## BEST OF LUCK (NO NEED TO STRESS :D)
-This link will take you to part 1 of the guide: [PART 1](Parts/Part_1.md) (points to archlinux.org for now. Need time to edit more).
+This link will take you to part 1 of the guide: [PART 1](Parts/Part_1.md).
