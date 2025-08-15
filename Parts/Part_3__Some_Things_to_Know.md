@@ -1,0 +1,4 @@
+# Part 3 - Some Things to Know About Linux
+
+## Elitism in the Community - What you Need to Know
+There are a lot of opinions about this — some insane, some way too sane. We'll take all of them with a grain of salt, for now, since _you_, the reader is assumed to be a newbie to this vast world.. since you have no idea of what people are saying about Linux, and why they are saying it, it would be better if you try and formulate your _own_ opinions, through learning and experimentation. Some people use Linux for minimalism and scoff at people who have pretty wallpapers, while others have very feature-rich stups and scoff at those who follow a minimalist style. The point is: _I t d o e s n o t m a t t e r_. Your linux setup will be _your_ Linux setup. A thing that is truly your own. So don't get bossed around by people who feel that their will is law.
