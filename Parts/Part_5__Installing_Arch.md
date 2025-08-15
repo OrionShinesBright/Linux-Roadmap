@@ -77,7 +77,7 @@ You should see something like this on your screen:
 Type the network passphrase for HUAWEI-qPyg psk.                                
 Passphrase: 
 ```
-Please enter your password and press Enter.
+Please enter your password and press Enter.<br>
 💠 **8. Exit `iwctl`**
 ```iwd
 [iwd]# exit
