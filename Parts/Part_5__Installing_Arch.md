@@ -23,13 +23,13 @@ Here we have two options:<br>
 All Ethernet connections should work without need for any configuration. Just make sure you have actually plugged it into your device.
 ### With Wifi
 Skip this if you connected using Ethernet. This is not as easy as ethernet. We shall need to use a command called `iwctl` which runs the `iwd` utility.<br>
-**Steps:**<br>
-💠 1. Start the iwctl program
+#### Steps:
+💠 **1. Start the iwctl program**
 ```zsh
 iwctl
 ```
-You will see something like `[iwd]#` on your screen. This is the iwctl prompt. We will run the next few steps in here. The following cammands will have the `[iwd]#` promt written on the left. You should only execute whatever is to the right of the prompt.
-💠 2. List out all your wifi devices
+You will see something like `[iwd]#` on your screen. This is the iwctl prompt. We will run the next few steps in here. The following cammands will have the `[iwd]#` promt written on the left. You should only execute whatever is to the right of the prompt.<br>
+💠 **2. List out all your wifi devices**
 ```iwd
 [iwd]# device list
 ```
@@ -42,19 +42,19 @@ Name          Address                  Powered        Adapter        Mode
 -------------------------------------------------------------------------------
 wlan0         xx:xx:xx:xx:xx:xx        on             phy0           station 
 ```
-💠 3. Power-On your adapter (taking phy0 as example) [will show no output]
+💠 **3. Power-On your adapter (taking phy0 as example) [will show no output]**
 ```iwd
 [iwd]# adapter phy0 set-property Powered on
 ```
-💠 4. Power-On your device (taking wlan0 as example) [will show no output]
+💠 **4. Power-On your device (taking wlan0 as example) [will show no output]**
 ```iwd
 [iwd]# device wlan0 set-property Powered on
 ```
-💠 5. Scan for nearby Wifi-networks (taking wlan0 as example) [will show no output]
+💠 **5. Scan for nearby Wifi-networks (taking wlan0 as example) [will show no output]**
 ```iwd
 [iwd]# station wlan0 scan
 ```
-💠 6. Display a List of scanned networks [Should show output]
+💠 **6. Display a List of scanned networks [Should show output]**
 ```iwd
 [iwd]# station wlan0 get-networks
 ```
@@ -67,7 +67,7 @@ You should see something like this on your screen:
 --------------------------------------------------------------------------------
       Very_Cool                         psk                 ****    
 ```
-💠 7. Connect to your network of choice (using Very_Cool as example)
+💠 **7. Connect to your network of choice (using Very_Cool as example)**
 ```iwd
 [iwd]# station wlan0 connect Very_Cool
 ```
@@ -78,12 +78,12 @@ Type the network passphrase for HUAWEI-qPyg psk.
 Passphrase: 
 ```
 Please enter your password and press Enter.
-💠 8. Exit `iwctl`
+💠 **8. Exit `iwctl`**
 ```iwd
 [iwd]# exit
 ```
 
-#### Checking your Internet Connection
+### Checking your Internet Connection
 You can check your connection by running:
 ```zsh
 ping -c 3 archlinux.org
