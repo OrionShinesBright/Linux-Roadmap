@@ -21,7 +21,7 @@ Here we have two options:<br>
 All Ethernet connections should work without need for any configuration. Just make sure you have actually plugged it into your device.
 ### With Wifi
 Skip this if you connected using Ethernet. This is not as easy as ethernet. We shall need to use a command called `iwctl` which runs the `iwd` utility.<br>
-#### Steps:
+#### Steps for Connecting to Wifi
 💠 **1. Start the iwctl program**
 ```zsh
 iwctl
