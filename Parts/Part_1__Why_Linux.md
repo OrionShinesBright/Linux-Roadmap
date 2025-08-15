@@ -1,0 +1,10 @@
+# PART 1 : The _WHY_ of Linux
+Why are we even here? ~Just to suffer~ But ok no seriously? Why _are_ we here? What brought you to this guide? What is your goal in all of this? Ask yourself these questions. I will help you by making you think carefully about what you want in ths part of the guide. If you are already sure, please move to [Part 2](Part_2.md).
+
+## Use Cases
+Ok so I understand that use cases are bit rare these days. One doesn't exactly _need_ to install any linux-based operating system or whatever, rather most of us just see a bunch of youtoob videos or hear about it from friends (those glorious and ingenius idiots) about linux and think to ourselves 'OOOOOOH I want that shiny new thingggggg!!!!!'.
+1. If shiny object syndrome is something that you are a victim to as well, then.. yeah.. welcome aboard, I guess!!! That's not a bad reason to try out something new, really. Just make sure to not worry about whether you are ahead of or behind your inspirations. Snce you're going in casually, it would wonderful if you enjoyed your stay, and perhaps even turned it into your home, if you liked the experience.
+2. If you are here because you want to be a "Hacker 😎", or are interested in a linux/unix based environment, then you are also in the right place. Green terminal fonts for your based, gigachad hacker needs, with all the tools you could ever desire are available. All sorts of coding, debugging and testing tools are also available (yes, yes, Vscode is available too but why would you?)
+3. If you are here because of whatever the heck Microsoft and/or Apple has been putting you through, then.. I offer my sympathies, and want to tell you that your stay here will be nothing like that. Privacy breaches will be rare (depends on whether you can resist installing weird packages, really), and operating systems will not be constantly using your CPu and RAM to show you more ads. A lot Windows/Mac exclusive apps won't work, but their are workarounds to make them work in a roundabout way. It'll be ok.
+
+## 
