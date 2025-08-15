@@ -10,8 +10,8 @@ To set a bigger font for your screen:
 setfont ter-v32n
 ```
 > [!TIP]
-> You can press `Ctrl+L` to clear your screen at any point
-> You can press `Ctrl+C` to stop any running process
+> You can press `Ctrl+L` to clear your screen at any point.<br>
+> You can press `Ctrl+C` to stop any running process.
 
 ## Connecting to the Internet
 Here we have two options:<br>
