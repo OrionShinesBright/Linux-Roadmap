@@ -11,8 +11,6 @@ setfont ter-v32n
 ```
 > [!TIP]
 > You can press `Ctrl+L` to clear your screen at any point
-
-> [!TIP]
 > You can press `Ctrl+C` to stop any running process
 
 ## Connecting to the Internet
